@@ -196,7 +196,7 @@ specialXE0CodecInfo = codecs.CodecInfo(
     streamreader=SpecialXE0StreamReader,
     streamwriter=SpecialXE0StreamWriter)
 
-# special equality mapping for 0xa4, 0xe0-0xff
+# special identity mapping for 0xa4, 0xe0-0xff
 special_xe0_map = {
     b'\xa4': '\xa4',
     b'\xe0': '\xe0',
