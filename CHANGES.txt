@@ -1,0 +1,7 @@
+smc.bibencodings 0.1
+====================
+
+*Release date: 15-Jul-2012*
+
+- first official release
+
