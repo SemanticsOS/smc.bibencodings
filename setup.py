@@ -49,7 +49,7 @@ setup_info = dict(
         "Programming Language :: Python :: 3.3",
         "Topic :: Communications",
         "Topic :: Software Development :: Libraries :: Python Modules",
-        "Topic :: Text Procesing :: General",
+        "Topic :: Text Processing :: General",
     ),
 )
 
