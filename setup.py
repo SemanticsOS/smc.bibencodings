@@ -31,7 +31,7 @@ setup_info = dict(
     url="https://bitbucket.org/tiran/smc.bibencodings",
     keywords="encoding codec bibliographic opac mab2 iso-5426 marc ansel",
     license="BSD",
-    description="",
+    description="ISO-5426 (MAB2) and MARC (USMARC, ANSEL) encodings for Python.",
     long_description=open("README.txt").read(),
     classifiers=(
         "Development Status :: 4 - Beta",
