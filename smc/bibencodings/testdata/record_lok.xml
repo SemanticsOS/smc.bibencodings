@@ -1,0 +1,745 @@
+<datei xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd http://www.d-nb.de/standardisierung/formate/mabxml-1.xsd">
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">316103241</feld>
+    <feld nr="002" ind="a">19100118</feld>
+    <feld nr="003" ind=" ">19100120082603</feld>
+    <feld nr="025" ind=" ">Springer978-3-531-15607-1</feld>
+    <feld nr="026" ind=" ">BSZ316103241</feld>
+    <feld nr="030" ind=" ">e|5z|||z|0017</feld>
+    <feld nr="037" ind="b">ger</feld>
+    <feld nr="050" ind=" ">||||||||g|||||</feld>
+    <feld nr="051" ind=" ">m||||||</feld>
+    <feld nr="076" ind="a">cofz</feld>
+    <feld nr="076" ind="a">text</feld>
+    <feld nr="077" ind="a">265518555           Buchausg. u.d.T.<tf/>: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="078" ind="e">ZDB-2-SGR</feld>
+    <feld nr="080" ind=" ">SPR</feld>
+    <feld nr="087" ind="q">978-3-531-15607-1</feld>
+    <feld nr="100" ind=" ">Beck, Martin</feld>
+    <feld nr="102" ind=" ">287610969</feld>
+    <feld nr="104" ind="b">Harders, Cilja</feld>
+    <feld nr="106" ind=" ">302962697</feld>
+    <feld nr="108" ind="b">Jünemann, Annette</feld>
+    <feld nr="110" ind=" ">01186789</feld>
+    <feld nr="112" ind="b">Stetter, Stephan</feld>
+    <feld nr="114" ind=" ">316106267</feld>
+    <feld nr="331" ind=" "><ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="334" ind=" ">Elektronische Ressource</feld>
+    <feld nr="335" ind=" ">Zwischen Transformation und Autoritarismus</feld>
+    <feld nr="359" ind=" ">herausgegeben von Martin Beck, Cilja Harders, Annette Jünemann, Stephan Stetter</feld>
+    <feld nr="410" ind=" ">Wiesbaden</feld>
+    <feld nr="412" ind=" ">VS Verlag für Sozialwissenschaften / GWV Fachverlage GmbH, Wiesbaden</feld>
+    <feld nr="425" ind=" ">2009</feld>
+    <feld nr="425" ind="a">2009</feld>
+    <feld nr="433" ind=" ">Online-Ressource</feld>
+    <feld nr="451" ind="b">SpringerLink : Bücher</feld>
+    <feld nr="527" ind=" ">Buchausg. u.d.T.: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="540" ind="a">ISBN 978-3-531-91890-7</feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="x">Verlag</uf>
+    </feld>
+    <feld nr="740" ind="s">Political science</feld>
+    <feld nr="740" ind="s">Social Sciences, general</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621084905</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125625</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">21</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="076" ind="a">ebok</feld>
+    <feld nr="080" ind=" ">TUUB</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="z">Zugang für die Universität Tübingen</uf>
+    </feld>
+    <feld nr="902" ind="s">  |eBook-Springer-Geistes-und-Sozialwissenschaften-Recht-2008-und-2009-11776</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621084913</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125625</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">21/24</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="076" ind="a">e024</feld>
+    <feld nr="080" ind=" ">TUUBRC</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="z">Zugang für die Universität Tübingen</uf>
+    </feld>
+    <feld nr="902" ind="s">  |eBook-Springer-Geistes-und-Sozialwissenschaften-Recht-2008-und-2009-11776</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621084921</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125625</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">25</feld>
+    <feld nr="076" ind="a">ebok</feld>
+    <feld nr="076" ind="a">ebsp</feld>
+    <feld nr="076" ind="a">e001</feld>
+    <feld nr="080" ind=" ">FRUB</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="123" ind=" ">25</feld>
+    <feld nr="125" ind="a">Elektronischer Volltext - Universitätslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="l">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://www.redi-bw.de/start/unifr/EBooks-springer/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">62108493X</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125623</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">291</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="076" ind="a">ebsp</feld>
+    <feld nr="080" ind=" ">SBUB</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621084948</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">Sa 16</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="076" ind="a">ebsp</feld>
+    <feld nr="080" ind=" ">SBFH</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621084956</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">14</feld>
+    <feld nr="076" ind="a">spob</feld>
+    <feld nr="080" ind=" ">DDSU</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="220" ind=" "/>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621084964</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125625</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">352E</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="080" ind=" ">KNUBEB</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621084972</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125625</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">180</feld>
+    <feld nr="080" ind=" ">MAUB</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="220" ind=" "/>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621084980</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125625</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">15</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="080" ind=" ">L1UB</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="125" ind="a">Elektronischer Volltext - Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621084999</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125623</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">16</feld>
+    <feld nr="076" ind="a">eros</feld>
+    <feld nr="076" ind="a">ebsp</feld>
+    <feld nr="076" ind="a">ebok</feld>
+    <feld nr="080" ind=" ">HDUB</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="220" ind=" "/>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085006</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125623</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">93</feld>
+    <feld nr="072" ind=" ">||||p||</feld>
+    <feld nr="076" ind="a">cofz</feld>
+    <feld nr="076" ind="a">speb</feld>
+    <feld nr="076" ind="a">erz2</feld>
+    <feld nr="080" ind=" ">S1UB</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="125" ind="a">Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">p</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085014</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">Ch 1</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="080" ind=" ">C1UB</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="125" ind="a">Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085022</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125625</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">Frei 129</feld>
+    <feld nr="072" ind=" ">||||p||</feld>
+    <feld nr="080" ind=" ">FR129</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="123" ind=" ">Frei 129</feld>
+    <feld nr="125" ind="a">Elektronischer Volltext - Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">p</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085030</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">Rt 2</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="080" ind=" ">TURTHR</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="100" ind=" ">eBook</feld>
+    <feld nr="125" ind="a">Zugriff von allen im Hochschulnetz befindlichen Rechnern; Hochschulangehörige können auch über VPN (https://vpn.reutlingen-university.de) von außerhalb des Campusnetzes zugreifen</feld>
+    <feld nr="220" ind=" ">
+      <uf code="a">eBook</uf>
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="x">E-BOOK: Link zum Volltext - nur auf dem Campus verfügbar</uf>
+    </feld>
+    <feld nr="700" ind=" ">259532320           eBOOK</feld>
+    <feld nr="700" ind=" ">314623825           eBOOK-Springer-Geistes-Sozialwissenschaften-Deutsch</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085049</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">752</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="076" ind="a">ebsp</feld>
+    <feld nr="080" ind=" ">S2SGPH</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="100" ind=" ">eBook Springer</feld>
+    <feld nr="125" ind="a">Elektronischer Volltext - Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="a">eBook Springer</uf>
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="x">Zum Online-Dokument</uf>
+      <uf code="z">Zugriff nur aus dem Campusnetz oder via VPN</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085057</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">Mit 1</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="080" ind=" ">C1MIFH</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="125" ind="a">Volltext - Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085065</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">Zi 4</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="076" ind="a">ebsp</feld>
+    <feld nr="080" ind=" ">DDZIFH</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="125" ind="a">Elektronischer Volltext - Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="z">Zum Online-Dokument</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085073</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125623</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">840</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="080" ind=" ">HDBSFH</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="100" ind=" ">Springer E-Book</feld>
+    <feld nr="125" ind="a">Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="a">Springer E-Book</uf>
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="x">Zum Online-Dokument</uf>
+      <uf code="z">Nur aus dem Campusnetz erreichbar</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085081</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">L 189</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="080" ind=" ">L1FH</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="125" ind="a">Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">62108509X</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125623</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">Kon 4</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="076" ind="a">ebsp</feld>
+    <feld nr="080" ind=" ">KNFH</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="100" ind=" ">eBook Springer</feld>
+    <feld nr="125" ind="a">Elektronischer Volltext - Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="a">eBook Springer</uf>
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="x">Zum Online-Dokument</uf>
+      <uf code="z">Nur aus dem Campusnetz erreichbar</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085103</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">520</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="080" ind=" ">DDFHTW</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="125" ind="a">eBook, Link nur im Campusbereich nutzbar</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">62108512X</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">953</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="076" ind="a">ebsp</feld>
+    <feld nr="080" ind=" ">MAFHTE</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="100" ind=" ">eBook Springer</feld>
+    <feld nr="125" ind="a">Elektronischer Volltext - Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="a">eBook Springer</uf>
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="x">Zum Online-Dokument</uf>
+      <uf code="z">Nur aus dem Campusnetz erreichbar</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085138</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125625</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">Fn 1</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="080" ind=" ">FRFTFH</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="100" ind=" ">Springer E-Book</feld>
+    <feld nr="123" ind=" ">Fn 1</feld>
+    <feld nr="125" ind="a">Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="a">Springer E-Book</uf>
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="x">Zum Online-Dokument</uf>
+      <uf code="z">Nur aus dem Campusnetz erreichbar</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085146</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125625</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">Stg 259</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="080" ind=" ">S1BA</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="100" ind=" ">eBook Springer</feld>
+    <feld nr="125" ind="a">Elektronischer Volltext - Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="a">eBook Springer</uf>
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="x">Zum Online-Dokument</uf>
+      <uf code="z">Nur aus dem Campusnetz erreichbar</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085154</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">1033</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="076" ind="a">ebsp</feld>
+    <feld nr="080" ind=" ">S1FHTE</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="100" ind=" ">eBook Springer</feld>
+    <feld nr="125" ind="a">Elektronischer Volltext - Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="a">eBook Springer</uf>
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="x">Zum Online-Dokument</uf>
+      <uf code="z">Nur aus dem Campusnetz erreichbar</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085162</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">753</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="076" ind="a">ebsp</feld>
+    <feld nr="080" ind=" ">S2ESSF</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="100" ind=" ">eBook Springer</feld>
+    <feld nr="125" ind="a">Elektronischer Volltext - Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="a">eBook Springer</uf>
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="x">Zum Online-Dokument</uf>
+      <uf code="z">Nur aus dem Campusnetz erreichbar</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085170</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125625</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">Vil 2</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="080" ind=" ">KNVSBA</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="100" ind=" ">Springer E-Book</feld>
+    <feld nr="125" ind="a">Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="a">Springer E-Book</uf>
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="x">Zum Online-Dokument</uf>
+      <uf code="z">Nur aus dem Campusnetz erreichbar</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085189</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">D 161</feld>
+    <feld nr="072" ind=" ">||||p||</feld>
+    <feld nr="080" ind=" ">DDBA</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">p</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085197</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">L 229</feld>
+    <feld nr="072" ind=" ">||||p||</feld>
+    <feld nr="080" ind=" ">L1BA</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">p</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085200</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">Brt 1</feld>
+    <feld nr="072" ind=" ">||||p||</feld>
+    <feld nr="080" ind=" ">DDBRBA</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">p</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085219</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">Gla 1</feld>
+    <feld nr="072" ind=" ">||||p||</feld>
+    <feld nr="080" ind=" ">DDGLBA</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">p</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085227</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">Bn 3</feld>
+    <feld nr="072" ind=" ">||||p||</feld>
+    <feld nr="080" ind=" ">DDBZBA</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">p</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085235</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">Rs 1</feld>
+    <feld nr="072" ind=" ">||||p||</feld>
+    <feld nr="080" ind=" ">DDRIBA</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="220" ind=" ">
+      <uf code="d">p</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085243</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125625</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">Hed 2</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="076" ind="a">ebsp</feld>
+    <feld nr="080" ind=" ">ULHEBA</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="100" ind=" ">e-Book Springer</feld>
+    <feld nr="125" ind="a">Elektronischer Volltext - Campuslizenz</feld>
+    <feld nr="220" ind=" ">
+      <uf code="a">e-Book Springer</uf>
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="x">Zum Online-Dokument</uf>
+      <uf code="z">Nur aus dem Campusnetz erreichbar</uf>
+    </feld>
+    <feld nr="700" ind=" ">287129780           e-Book</feld>
+    <feld nr="700" ind=" ">287130053           e-Book Geistes-, Sozial- , Rechtswissenschaften</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">621085251</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125625</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">984</feld>
+    <feld nr="072" ind=" ">||||n||</feld>
+    <feld nr="076" ind="a">ebsp</feld>
+    <feld nr="080" ind=" ">S2SGFH</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="100" ind=" ">e-Book Springer</feld>
+    <feld nr="125" ind="a">Elektronischer Volltext. Online-Zugang im Hochschulnetz, von außerhalb via VPN nur für Hochschulangehörige</feld>
+    <feld nr="220" ind=" ">
+      <uf code="a">e-Book Springer</uf>
+      <uf code="d">n</uf>
+    </feld>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+    </feld>
+    <feld nr="700" ind=" ">288168488           eBook</feld>
+    <feld nr="700" ind=" ">28816878X           eBook Springer Verlag. Geistes-, Sozialwiss. Recht. Architektur. Design</feld>
+    <feld nr="902" ind="s">  289115507           eBook</feld>
+    <feld nr="902" ind=" ">  289115507           e-Book</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="c" typ="l">
+    <feld nr="001" ind=" ">62108526X</feld>
+    <feld nr="002" ind="a">20091117</feld>
+    <feld nr="003" ind=" ">19100118125624</feld>
+    <feld nr="012" ind=" ">316103241</feld>
+    <feld nr="030" ind=" ">||1d|||||||||</feld>
+    <feld nr="071" ind=" ">1141</feld>
+    <feld nr="076" ind="a">ebsp</feld>
+    <feld nr="080" ind=" ">KNFNZU</feld>
+    <feld nr="081" ind=" ">Beck, Martin: <ns>Der</ns> Nahe Osten im Umbruch</feld>
+    <feld nr="220" ind=" "/>
+    <feld nr="655" ind="e">
+      <uf code="u">http://dx.doi.org/10.1007/978-3-531-91890-7</uf>
+      <uf code="x">Zum Online-Dokument</uf>
+      <uf code="z">Nur aus dem Campusnetz erreichbar</uf>
+    </feld>
+  </datensatz>
+</datei>

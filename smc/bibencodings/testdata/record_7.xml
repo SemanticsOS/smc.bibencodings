@@ -1,0 +1,30 @@
+<datei xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd http://www.d-nb.de/standardisierung/formate/mabxml-1.xsd">
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">HT016182201</feld>
+    <feld nr="002" ind="a">20100104</feld>
+    <feld nr="004" ind=" ">20100110</feld>
+    <feld nr="026" ind=" ">HBZHT016182201</feld>
+    <feld nr="030" ind=" ">e|5z|||z|0017</feld>
+    <feld nr="036" ind="a">DE</feld>
+    <feld nr="037" ind="b">ger</feld>
+    <feld nr="050" ind=" ">a|||||||||||||</feld>
+    <feld nr="051" ind=" ">m||||||</feld>
+    <feld nr="070" ind=" ">6/006</feld>
+    <feld nr="080" ind=" ">50</feld>
+    <feld nr="088" ind=" ">
+      <uf code="a">6/006</uf>
+      <uf code="b">00033001</uf>
+      <uf code="c">RW Fac 10</uf>
+      <uf code="e">keine ILL</uf>
+    </feld>
+    <feld nr="100" ind=" ">Lilipaly, Hendrik Theophilus</feld>
+    <feld nr="102" ind="a">118572989</feld>
+    <feld nr="331" ind=" ">Wer und wo ist eigentlich der Wahre Gott?</feld>
+    <feld nr="335" ind=" ">Gottes Thesen</feld>
+    <feld nr="359" ind=" ">Hendrik Th. Lilipaly</feld>
+    <feld nr="410" ind=" ">Pohlheim</feld>
+    <feld nr="412" ind=" ">Lilipaly</feld>
+    <feld nr="425" ind="a">1983</feld>
+    <feld nr="433" ind=" ">16 S.</feld>
+  </datensatz>
+</datei>

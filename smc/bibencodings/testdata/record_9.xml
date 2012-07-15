@@ -1,0 +1,35 @@
+<datei xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd http://www.d-nb.de/standardisierung/formate/mabxml-1.xsd">
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">HT016181253</feld>
+    <feld nr="002" ind="a">20091230</feld>
+    <feld nr="004" ind=" ">20100110</feld>
+    <feld nr="026" ind=" ">HBZHT016181253</feld>
+    <feld nr="030" ind=" ">a|1uc||||||17</feld>
+    <feld nr="036" ind="a">DE</feld>
+    <feld nr="037" ind="b">ger</feld>
+    <feld nr="050" ind=" ">a|||||||||||||</feld>
+    <feld nr="051" ind=" ">at||||||</feld>
+    <feld nr="070" ind=" ">6</feld>
+    <feld nr="078" ind="n">
+      <uf code="a">NWBib-6</uf>
+    </feld>
+    <feld nr="080" ind=" ">60</feld>
+    <feld nr="100" ind=" ">Lefeber, Hans</feld>
+    <feld nr="102" ind="a">131316389</feld>
+    <feld nr="331" ind=" ">"Gebt unserm Gott die Ehre" - unsere Gottesdienste</feld>
+    <feld nr="359" ind=" ">Hans Lefeber</feld>
+    <feld nr="425" ind="a">2004</feld>
+    <feld nr="590" ind=" "><ns>Ein</ns> + verbindet</feld>
+    <feld nr="591" ind=" ">im Auftr. des Presbyteriums der Evangelisch-Lutherischen Kirchengemeinde Jöllenbeck hrsg. von Udo Halama</feld>
+    <feld nr="594" ind=" ">Bielefeld</feld>
+    <feld nr="595" ind=" ">2004</feld>
+    <feld nr="596" ind=" ">S. 112-116 : Ill.</feld>
+    <feld nr="599" ind=" ">TT002165848</feld>
+    <feld nr="700" ind="n">|99 ; Jöllenbeck</feld>
+    <feld nr="700" ind="n">|613070</feld>
+    <feld nr="902" ind="c">            HS00554995Jöllenbeck</feld>
+    <feld nr="902" ind=" ">31          HS00554995Evangelisch-Lutherische Kirchengemeinde</feld>
+    <feld nr="902" ind="s">  4021671-8           Gottesdienst</feld>
+    <feld nr="903" ind=" ">312</feld>
+  </datensatz>
+</datei>

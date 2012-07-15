@@ -1,0 +1,34 @@
+<datei xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd http://www.d-nb.de/standardisierung/formate/mabxml-1.xsd">
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">HT016185271</feld>
+    <feld nr="002" ind="a">20100106</feld>
+    <feld nr="004" ind=" ">20100110</feld>
+    <feld nr="026" ind=" ">HBZHT016185271</feld>
+    <feld nr="030" ind=" ">a|1uc||||||14</feld>
+    <feld nr="050" ind=" ">a|||||||||||||</feld>
+    <feld nr="051" ind=" ">am||||||</feld>
+    <feld nr="070" ind=" ">575</feld>
+    <feld nr="080" ind=" ">60</feld>
+    <feld nr="088" ind=" ">
+      <uf code="a">575</uf>
+    </feld>
+    <feld nr="100" ind=" ">Bach, Johann Sebastian</feld>
+    <feld nr="102" ind="a">11850553X</feld>
+    <feld nr="304" ind="b">Choralbearbeitungen, BWV 669 - 689 &lt;Wir glauben all an einen Gott BWV 680&gt;</feld>
+    <feld nr="331" ind=" ">Fugue</feld>
+    <feld nr="334" ind=" ">Musikdruck</feld>
+    <feld nr="335" ind=" ">d minor ; (The Giant.)</feld>
+    <feld nr="359" ind=" ">J. S. Bach</feld>
+    <feld nr="370" ind="b">Nous croyons tous en un seul Dieu</feld>
+    <feld nr="370" ind="b">We all belive in one God</feld>
+    <feld nr="370" ind="b">Wir glauben alle an einen Gott, Schöpfer</feld>
+    <feld nr="370" ind="b">Klavierübung, Teil III</feld>
+    <feld nr="370" ind="b">Clavier-Übung, Teil 3</feld>
+    <feld nr="370" ind="b">Wir glauben all' an einen Gott, Schöpfer</feld>
+    <feld nr="403" ind=" ">[Orgelpartitur]</feld>
+    <feld nr="501" ind=" ">In Organo pleno</feld>
+    <feld nr="590" ind=" ">The organ works : Book II ; Preludes, fugues and trio</feld>
+    <feld nr="591" ind=" ">J. S. Bach. ... ed. by Sir, Frederick Bridge and James Higgs</feld>
+    <feld nr="599" ind=" ">HT016185175</feld>
+  </datensatz>
+</datei>

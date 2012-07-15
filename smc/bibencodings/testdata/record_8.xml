@@ -1,0 +1,40 @@
+<datei xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd http://www.d-nb.de/standardisierung/formate/mabxml-1.xsd">
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">HT016181600</feld>
+    <feld nr="002" ind="a">20100104</feld>
+    <feld nr="003" ind=" ">20100106</feld>
+    <feld nr="004" ind=" ">20100110</feld>
+    <feld nr="025" ind="a">964436450</feld>
+    <feld nr="026" ind=" ">HBZHT016181600</feld>
+    <feld nr="030" ind=" ">g|1dar|z|||17</feld>
+    <feld nr="036" ind="a">XA-DE</feld>
+    <feld nr="037" ind="b">ger</feld>
+    <feld nr="050" ind=" ">a|b|||||||||||</feld>
+    <feld nr="051" ind=" ">m|||z|||</feld>
+    <feld nr="070" ind=" ">51</feld>
+    <feld nr="070" ind="a">HBZ</feld>
+    <feld nr="070" ind="b">51</feld>
+    <feld nr="080" ind=" ">60</feld>
+    <feld nr="088" ind=" ">
+      <uf code="a">51</uf>
+      <uf code="b">00000000</uf>
+      <uf code="c">ILW 147(2)</uf>
+      <uf code="e">ILL Ausleihe</uf>
+    </feld>
+    <feld nr="100" ind=" ">Storl, Wolf-Dieter</feld>
+    <feld nr="102" ind="a">120340410</feld>
+    <feld nr="331" ind=" ">Shiva, der wilde, gütige Gott</feld>
+    <feld nr="335" ind=" ">Tor zur Wahrheit, Weisheit, Wonne</feld>
+    <feld nr="359" ind=" ">Wolf-Dieter Storl</feld>
+    <feld nr="403" ind=" ">2. Aufl.</feld>
+    <feld nr="410" ind=" ">Burgrain</feld>
+    <feld nr="412" ind=" ">Koha-Verl.</feld>
+    <feld nr="425" ind="a">2005</feld>
+    <feld nr="433" ind=" ">250S., [8] Bl. : Ill.</feld>
+    <feld nr="540" ind="a">ISBN 3-929512-90-4 Pp. : EUR 19.80 (DE), EUR 20.50 (AT), sfr 33.50</feld>
+    <feld nr="568" ind=" ">02,N31,0043</feld>
+    <feld nr="574" ind=" ">05,A14,0349</feld>
+    <feld nr="700" ind=" ">|290</feld>
+    <feld nr="902" ind="p">  4105966-9           Schiwa</feld>
+  </datensatz>
+</datei>

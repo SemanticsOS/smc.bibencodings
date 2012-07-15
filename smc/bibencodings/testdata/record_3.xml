@@ -1,0 +1,42 @@
+<datei xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd http://www.d-nb.de/standardisierung/formate/mabxml-1.xsd">
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">HT016182433</feld>
+    <feld nr="002" ind="a">20100104</feld>
+    <feld nr="003" ind=" ">20100105</feld>
+    <feld nr="004" ind=" ">20100110</feld>
+    <feld nr="026" ind=" ">HBZHT016182433</feld>
+    <feld nr="030" ind=" ">a|1uc||||||14</feld>
+    <feld nr="036" ind="a">FR</feld>
+    <feld nr="037" ind="b">ger</feld>
+    <feld nr="050" ind=" ">|||||aa|||||||</feld>
+    <feld nr="051" ind=" ">a|||||||</feld>
+    <feld nr="070" ind=" ">1156</feld>
+    <feld nr="070" ind="b">1156</feld>
+    <feld nr="080" ind=" ">60</feld>
+    <feld nr="088" ind=" ">
+      <uf code="a">1156</uf>
+    </feld>
+    <feld nr="100" ind=" ">Mendelssohn Bartholdy, Felix</feld>
+    <feld nr="102" ind="a">118580779</feld>
+    <feld nr="104" ind="e">Creed, Marcus <ns>[Dir.]</ns></feld>
+    <feld nr="106" ind="a">123803012</feld>
+    <feld nr="200" ind="e">Rundfunk im Amerikanischen Sektor Berlins / Kammerchor</feld>
+    <feld nr="202" ind="a">2101675-6</feld>
+    <feld nr="304" ind="b"><ns>Die</ns> deutsche Liturgie / Ausw.</feld>
+    <feld nr="331" ind=" ">Missa breve</feld>
+    <feld nr="334" ind=" ">Tonträger</feld>
+    <feld nr="335" ind=" ">Kyrie eleison, Ehre sei Gott in der Höhe, Heilig, heilig, heilig</feld>
+    <feld nr="359" ind=" ">Felix Mendelssohn-Bartholdy</feld>
+    <feld nr="425" ind="p">P 2000</feld>
+    <feld nr="425" ind="a">2000</feld>
+    <feld nr="503" ind="a">Für zwei gem. Chöre a cappella</feld>
+    <feld nr="516" ind=" ">Dt. gesungen</feld>
+    <feld nr="516" ind=" ">CD-ROM-Beil. zur Box enth. Gesangstexte in dt., engl. und franz. Sprache</feld>
+    <feld nr="518" ind="a">Interpr.: RIAS Kammerchor, dir. Marcus Creed</feld>
+    <feld nr="518" ind="b">Aufn.: Berlin-Dahlem, Jesus-Christus Kirche, Septembre 1999</feld>
+    <feld nr="590" ind=" "><ns>Les</ns> temps modernes 2 [Tonträger]</feld>
+    <feld nr="595" ind=" ">2009</feld>
+    <feld nr="596" ind=" ">1 CD, Nr. 9</feld>
+    <feld nr="599" ind=" ">HT016182390</feld>
+  </datensatz>
+</datei>

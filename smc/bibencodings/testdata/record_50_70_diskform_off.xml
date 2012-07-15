@@ -1,0 +1,410 @@
+<datei xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd http://www.d-nb.de/standardisierung/formate/mabxml-1.xsd">
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">0000050</feld>
+    <feld nr="004" ind=" ">20101027115502</feld>
+    <feld nr="030" ind=" ">a|||d||||||37</feld>
+    <feld nr="037" ind=" ">lld</feld>
+    <feld nr="050" ind=" ">a</feld>
+    <feld nr="051" ind=" ">m</feld>
+    <feld nr="086" ind=" ">Buch</feld>
+    <feld nr="100" ind=" ">Obletter, Amalia</feld>
+    <feld nr="331" ind=" "><ns>La</ns> rujeneda dla oma</feld>
+    <feld nr="335" ind=" ">gramatica dl ladin de gherdëina</feld>
+    <feld nr="359" ind=" ">metuda adum da Amalia Anderlan-Obletter</feld>
+    <feld nr="410" ind=" ">Bulsan</feld>
+    <feld nr="412" ind=" ">Istitut Pedagogich Ladin [u.a.]</feld>
+    <feld nr="425" ind=" ">1991</feld>
+    <feld nr="433" ind=" ">240 pl. : il.</feld>
+    <feld nr="700" ind="g">IW 4178</feld>
+    <feld nr="710" ind=" ">Dialec y idioms</feld>
+    <feld nr="710" ind=" ">Gramatica</feld>
+    <feld nr="710" ind=" ">Manual</feld>
+    <feld nr="902" ind=" ">11¤Mundart</feld>
+    <feld nr="902" ind=" ">11¤Grammatik</feld>
+    <feld nr="902" ind=" ">11¤Lehrbuch</feld>
+    <feld nr="907" ind=" ">11¤Dialetti</feld>
+    <feld nr="907" ind=" ">11¤Grammatica</feld>
+    <feld nr="907" ind=" ">11¤Manuali</feld>
+    <feld nr="917" ind=" ">11¤Ladin de Gherdeina</feld>
+    <feld nr="922" ind=" ">11¤Grödnerisch</feld>
+    <feld nr="927" ind=" ">11¤Gardenese</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">0000053</feld>
+    <feld nr="004" ind=" ">20101027115502</feld>
+    <feld nr="030" ind=" ">a|||d||||||37</feld>
+    <feld nr="037" ind=" ">lld</feld>
+    <feld nr="050" ind=" ">a</feld>
+    <feld nr="051" ind=" ">m</feld>
+    <feld nr="086" ind=" ">Buch</feld>
+    <feld nr="100" ind=" ">Vittur, Franz</feld>
+    <feld nr="331" ind=" ">Sön les pedies y i fostüs dla scola ladina</feld>
+    <feld nr="335" ind=" ">na scola inanter inovaziun y stabilité</feld>
+    <feld nr="359" ind=" ">Franz Vittur</feld>
+    <feld nr="403" ind=" ">ed. ampliada dl liber "Una vita, una scuola"</feld>
+    <feld nr="410" ind=" ">San Martin de Tor</feld>
+    <feld nr="412" ind=" ">Istitut Cultural Ladin "Micurá de Rü"</feld>
+    <feld nr="425" ind=" ">2007</feld>
+    <feld nr="433" ind=" ">293 pl. : tr. il.</feld>
+    <feld nr="540" ind="a">ISBN 978-88-8171-076-8</feld>
+    <feld nr="540" ind="b">ISBN 88-8171-076-5</feld>
+    <feld nr="700" ind="g">DK 1080</feld>
+    <feld nr="710" ind=" ">Storia</feld>
+    <feld nr="710" ind=" ">Scola</feld>
+    <feld nr="710" ind=" ">Ladin &lt;persona&gt;</feld>
+    <feld nr="902" ind=" ">11¤Geschichte</feld>
+    <feld nr="902" ind=" ">11¤Schule</feld>
+    <feld nr="902" ind=" ">11¤Ladiner</feld>
+    <feld nr="907" ind=" ">11¤Storia</feld>
+    <feld nr="907" ind=" ">11¤Scuole</feld>
+    <feld nr="907" ind=" ">11¤Ladini</feld>
+    <feld nr="917" ind=" ">11¤Badiot</feld>
+    <feld nr="922" ind=" ">11¤Badiot &lt;Mundart&gt;</feld>
+    <feld nr="927" ind=" ">11¤Badiotto</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">0000054</feld>
+    <feld nr="004" ind=" ">20101027115502</feld>
+    <feld nr="030" ind=" ">a|||d||||||37</feld>
+    <feld nr="037" ind=" ">lld</feld>
+    <feld nr="050" ind=" ">a</feld>
+    <feld nr="051" ind=" ">m</feld>
+    <feld nr="086" ind=" ">Buch</feld>
+    <feld nr="100" ind=" ">Vittur, Franz</feld>
+    <feld nr="331" ind=" ">Fora por les sajuns dla vita</feld>
+    <feld nr="335" ind=" ">s' incuntè por crësce</feld>
+    <feld nr="359" ind=" ">Franz Vittur</feld>
+    <feld nr="410" ind=" ">Bulsan</feld>
+    <feld nr="412" ind=" ">Istitut Pedagogich Ladin</feld>
+    <feld nr="425" ind=" ">1995</feld>
+    <feld nr="433" ind=" ">148 pl. : il.</feld>
+    <feld nr="540" ind="a">ISBN 88-86137-08-7</feld>
+    <feld nr="700" ind="g">DG 7000</feld>
+    <feld nr="710" ind=" ">Maniera de vive</feld>
+    <feld nr="710" ind=" ">Mutons</feld>
+    <feld nr="902" ind=" ">11¤Lebensführung</feld>
+    <feld nr="902" ind=" ">11¤Kind</feld>
+    <feld nr="907" ind=" ">11¤Stili di vita</feld>
+    <feld nr="907" ind=" ">11¤Bambini</feld>
+    <feld nr="917" ind=" ">11¤Ladin de Mesaval</feld>
+    <feld nr="922" ind=" ">11¤Ladin i.e.S.</feld>
+    <feld nr="927" ind=" ">11¤Ladino in senso stretto</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">0000055</feld>
+    <feld nr="004" ind=" ">20101027115502</feld>
+    <feld nr="030" ind=" ">a|||d||||||37</feld>
+    <feld nr="037" ind=" ">lld</feld>
+    <feld nr="050" ind=" ">a</feld>
+    <feld nr="051" ind=" ">m</feld>
+    <feld nr="086" ind=" ">Buch</feld>
+    <feld nr="100" ind=" ">Vittur, Franz</feld>
+    <feld nr="331" ind=" ">Inrescida</feld>
+    <feld nr="335" ind=" ">sön la scola de oblianza dles valades ladines de Gherdëina y Badia in gaujiun di 40 agn da süa istituziun</feld>
+    <feld nr="359" ind=" ">Franz Vittur</feld>
+    <feld nr="410" ind=" ">Bulsan</feld>
+    <feld nr="412" ind=" ">Istitut Pedagogich Ladin</feld>
+    <feld nr="425" ind=" ">1990</feld>
+    <feld nr="433" ind=" ">66 pl. : graf.</feld>
+    <feld nr="700" ind="g">DK 1080</feld>
+    <feld nr="710" ind=" ">Storia</feld>
+    <feld nr="710" ind=" ">Valutazion</feld>
+    <feld nr="710" ind=" ">Ensegnament dla scola elementara</feld>
+    <feld nr="710" ind=" ">Scolé</feld>
+    <feld nr="710" ind=" ">Enrescida</feld>
+    <feld nr="902" ind=" ">11¤Geschichte</feld>
+    <feld nr="902" ind=" ">11¤Beurteilung</feld>
+    <feld nr="902" ind=" ">11¤Grundschulunterricht</feld>
+    <feld nr="902" ind=" ">11¤Schüler</feld>
+    <feld nr="902" ind=" ">11¤Umfrage</feld>
+    <feld nr="907" ind=" ">11¤Storia</feld>
+    <feld nr="907" ind=" ">11¤Valutazione</feld>
+    <feld nr="907" ind=" ">11¤Istruzione primaria</feld>
+    <feld nr="907" ind=" ">11¤Alunni</feld>
+    <feld nr="907" ind=" ">11¤Sondaggio</feld>
+    <feld nr="917" ind=" ">11¤Badiot</feld>
+    <feld nr="922" ind=" ">11¤Badiot &lt;Mundart&gt;</feld>
+    <feld nr="927" ind=" ">11¤Badiotto</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">0000059</feld>
+    <feld nr="004" ind=" ">20101027115502</feld>
+    <feld nr="030" ind=" ">a|||d||||||37</feld>
+    <feld nr="037" ind=" ">lld</feld>
+    <feld nr="050" ind=" ">|||||aa</feld>
+    <feld nr="051" ind=" ">m</feld>
+    <feld nr="086" ind=" ">DVD</feld>
+    <feld nr="100" ind="b">Höglinger, Matthias</feld>
+    <feld nr="104" ind="b">Demetz, Emanuel</feld>
+    <feld nr="108" ind="b">Perathoner, Simon</feld>
+    <feld nr="112" ind="b">Dellago, Tobias</feld>
+    <feld nr="331" ind=" ">Dumbries de col de Flam</feld>
+    <feld nr="359" ind=" ">Regie: Mathias Höglinger. Mit Emanuel Demetz ; Simon Perathoner ; Tobias Dellago ...</feld>
+    <feld nr="410" ind=" ">[S.l.]</feld>
+    <feld nr="412" ind=" ">Höglinger</feld>
+    <feld nr="425" ind=" ">2007</feld>
+    <feld nr="433" ind=" ">37 Min.</feld>
+    <feld nr="501" ind=" ">DVD. - Country code: 2?. - Sprache: Ladinisch (Ladin - idiom de Gherdeina). - Untertitel: Deutsch, Italienisch (Italiano)</feld>
+    <feld nr="700" ind="g">AP 59439</feld>
+    <feld nr="710" ind=" ">Vera dl mond 1914-1918</feld>
+    <feld nr="710" ind=" ">Ferata</feld>
+    <feld nr="902" ind=" ">11¤Weltkrieg &lt;1914-1918&gt;</feld>
+    <feld nr="902" ind=" ">11¤Eisenbahn</feld>
+    <feld nr="907" ind=" ">11¤Guerra mondiale 1914-1918</feld>
+    <feld nr="907" ind=" ">11¤Ferrovie</feld>
+    <feld nr="917" ind=" ">11¤Ladin de Gherdeina</feld>
+    <feld nr="922" ind=" ">11¤Grödnerisch</feld>
+    <feld nr="927" ind=" ">11¤Gardenese</feld>
+    <feld nr="932" ind=" ">11¤Gherdëina &lt;valeda&gt;</feld>
+    <feld nr="937" ind=" ">11¤Gröden</feld>
+    <feld nr="942" ind=" ">11¤Val Gardena</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">0000063</feld>
+    <feld nr="004" ind=" ">20101027115502</feld>
+    <feld nr="030" ind=" ">a|||d||||||37</feld>
+    <feld nr="037" ind=" ">lld</feld>
+    <feld nr="050" ind=" ">a</feld>
+    <feld nr="051" ind=" ">m</feld>
+    <feld nr="086" ind=" ">Buch</feld>
+    <feld nr="100" ind=" ">Scarry, Richard</feld>
+    <feld nr="104" ind="b">Mussner, Rosmarie</feld>
+    <feld nr="331" ind=" ">Mi prim dizioner</feld>
+    <feld nr="335" ind=" ">cun passa 1200 dessënies y paroles</feld>
+    <feld nr="341" ind=" ">Mî pröm dizionar : cun passa 1200 dessëgns y parores = Mie prum dizionar: cun passa 1200 dessegnes y paroles</feld>
+    <feld nr="359" ind=" ">de Richard Scarry. Traduziun: Rosmarie Mussner...</feld>
+    <feld nr="403" ind=" ">1. ed.</feld>
+    <feld nr="410" ind=" ">San Martin de Tor</feld>
+    <feld nr="412" ind=" ">Istitut Cultural Ladin "Micurá de Rü" [u.a.]</feld>
+    <feld nr="425" ind=" ">1987</feld>
+    <feld nr="433" ind=" ">79 pl. : g. p. il</feld>
+    <feld nr="501" ind=" ">"Prima rissa: ladin gherdeina; secunda ligna: ladin badiot; terza linia: ladin fascian". - NST: Dizionar ladin dolomitan</feld>
+    <feld nr="540" ind="a">ISBN 3-7735-7859-8</feld>
+    <feld nr="700" ind="g">IW 4800</feld>
+    <feld nr="710" ind=" ">Ladin &lt;lingaz&gt;</feld>
+    <feld nr="710" ind=" ">Vocabolar</feld>
+    <feld nr="710" ind=" ">Vocabolar &lt;plurilingh&gt;</feld>
+    <feld nr="710" ind=" ">Liber per mutons</feld>
+    <feld nr="902" ind=" ">11¤Ladinisch</feld>
+    <feld nr="902" ind=" ">11¤Wörterbuch</feld>
+    <feld nr="902" ind=" ">11¤Wörterbuch &lt;mehrsprachig&gt;</feld>
+    <feld nr="902" ind=" ">11¤Kinderbuch</feld>
+    <feld nr="907" ind=" ">11¤Dialetti ladini</feld>
+    <feld nr="907" ind=" ">11¤Dizionari</feld>
+    <feld nr="907" ind=" ">11¤Dizionari poliglotti</feld>
+    <feld nr="907" ind=" ">11¤Libri per bambini</feld>
+    <feld nr="917" ind=" ">11¤Ladin de Gherdeina</feld>
+    <feld nr="917" ind=" ">11¤Ladin de Mesaval</feld>
+    <feld nr="917" ind=" ">11¤Fascian</feld>
+    <feld nr="922" ind=" ">11¤Grödnerisch</feld>
+    <feld nr="922" ind=" ">11¤Ladin i.e.S.</feld>
+    <feld nr="922" ind=" ">11¤Fassanisch</feld>
+    <feld nr="927" ind=" ">11¤Gardenese</feld>
+    <feld nr="927" ind=" ">11¤Ladino in senso stretto</feld>
+    <feld nr="927" ind=" ">11¤Fassano</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">0000064</feld>
+    <feld nr="004" ind=" ">20101027115503</feld>
+    <feld nr="030" ind=" ">a|||d||||||37</feld>
+    <feld nr="037" ind=" ">mul</feld>
+    <feld nr="050" ind=" ">a</feld>
+    <feld nr="051" ind=" ">m</feld>
+    <feld nr="086" ind=" ">Buch</feld>
+    <feld nr="100" ind=" ">Pizzinini, Franzl</feld>
+    <feld nr="331" ind=" ">Sföi de parores ladines a injunta dla gramatica "L ladin dla Val Badia"</feld>
+    <feld nr="359" ind=" ">Franzl Pizzinini</feld>
+    <feld nr="410" ind=" ">Bozen</feld>
+    <feld nr="412" ind=" ">Presel</feld>
+    <feld nr="425" ind=" ">1977</feld>
+    <feld nr="433" ind=" ">41 pl.</feld>
+    <feld nr="710" ind=" ">Ladin &lt;lingaz&gt;</feld>
+    <feld nr="710" ind=" ">Vocabolar &lt;plurilingh&gt;</feld>
+    <feld nr="902" ind=" ">11¤Ladinisch</feld>
+    <feld nr="902" ind=" ">11¤Wörterbuch &lt;mehrsprachig&gt;</feld>
+    <feld nr="907" ind=" ">11¤Dialetti ladini</feld>
+    <feld nr="907" ind=" ">11¤Dizionari poliglotti</feld>
+    <feld nr="917" ind=" ">11¤Ladin de Mesaval</feld>
+    <feld nr="917" ind=" ">11¤Talian</feld>
+    <feld nr="917" ind=" ">11¤Todesch</feld>
+    <feld nr="922" ind=" ">11¤Ladin i.e.S.</feld>
+    <feld nr="922" ind=" ">11¤Italienisch</feld>
+    <feld nr="922" ind=" ">11¤Deutsch</feld>
+    <feld nr="927" ind=" ">11¤Ladino in senso stretto</feld>
+    <feld nr="927" ind=" ">11¤Lingua italiana</feld>
+    <feld nr="927" ind=" ">11¤Lingua tedesca</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">0000066</feld>
+    <feld nr="004" ind=" ">20101027115503</feld>
+    <feld nr="030" ind=" ">a|||d||||||37</feld>
+    <feld nr="037" ind=" ">lld</feld>
+    <feld nr="050" ind=" ">a</feld>
+    <feld nr="051" ind=" ">s</feld>
+    <feld nr="086" ind=" ">Buch</feld>
+    <feld nr="100" ind=" ">Pizzinini, Antone</feld>
+    <feld nr="104" ind="b">Plangg, Guntram</feld>
+    <feld nr="331" ind=" ">Parores ladines : Vokabulare badiot-tudesk, ergänzt und überarb. von Guntram Plangg</feld>
+    <feld nr="359" ind=" ">Antone Pizzinini. Erg. und bearb. von Guntram Plangg</feld>
+    <feld nr="410" ind=" ">Innsbruck</feld>
+    <feld nr="412" ind=" ">Institut für Romanistik</feld>
+    <feld nr="425" ind=" ">1966</feld>
+    <feld nr="433" ind=" ">LXII, 201 pl. : il.</feld>
+    <feld nr="454" ind=" ">Romanica Aenipontana</feld>
+    <feld nr="455" ind=" ">3</feld>
+    <feld nr="710" ind=" ">Dialec y idioms</feld>
+    <feld nr="710" ind=" ">Vocabolar</feld>
+    <feld nr="902" ind=" ">11¤Mundart</feld>
+    <feld nr="902" ind=" ">11¤Wörterbuch</feld>
+    <feld nr="907" ind=" ">11¤Dialetti</feld>
+    <feld nr="907" ind=" ">11¤Dizionari</feld>
+    <feld nr="917" ind=" ">11¤Badiot</feld>
+    <feld nr="917" ind=" ">11¤Todesch</feld>
+    <feld nr="922" ind=" ">11¤Badiot &lt;Mundart&gt;</feld>
+    <feld nr="922" ind=" ">11¤Deutsch</feld>
+    <feld nr="927" ind=" ">11¤Badiotto</feld>
+    <feld nr="927" ind=" ">11¤Lingua tedesca</feld>
+    <feld nr="932" ind=" ">11¤Val Badia</feld>
+    <feld nr="937" ind=" ">11¤Gadertal</feld>
+    <feld nr="942" ind=" ">11¤Val Badia</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">0000067</feld>
+    <feld nr="004" ind=" ">20101027115503</feld>
+    <feld nr="030" ind=" ">a|||d||||||37</feld>
+    <feld nr="037" ind=" ">lld</feld>
+    <feld nr="050" ind=" ">a</feld>
+    <feld nr="051" ind=" ">m</feld>
+    <feld nr="086" ind=" ">Buch</feld>
+    <feld nr="100" ind="b">Flöss, Erna</feld>
+    <feld nr="104" ind="b">Castlunger Irsara, Monica</feld>
+    <feld nr="331" ind=" ">Sorëdl y plöia</feld>
+    <feld nr="335" ind=" ">liber da lí por la IV. y V. tlassa dles scores elementares dla Val Badia</feld>
+    <feld nr="359" ind=" ">Coordinaziun : Erna Flöss. Mëmbri dl grup de laûr : Monica Castlunger Irsara ...</feld>
+    <feld nr="410" ind=" ">Bulsan</feld>
+    <feld nr="412" ind=" ">Istitut Pedagogich Ladin</feld>
+    <feld nr="425" ind=" ">1999</feld>
+    <feld nr="433" ind=" ">233 pl.: tr. il.</feld>
+    <feld nr="540" ind="a">ISBN 88-86137-17-6</feld>
+    <feld nr="700" ind="g">DP 3100</feld>
+    <feld nr="710" ind=" ">Scola elementara</feld>
+    <feld nr="710" ind=" ">Liber de letura</feld>
+    <feld nr="710" ind=" ">Liber de scola</feld>
+    <feld nr="710" ind=" ">Stories y conties</feld>
+    <feld nr="902" ind=" ">11¤Grundschule</feld>
+    <feld nr="902" ind=" ">11¤Lesebuch</feld>
+    <feld nr="902" ind=" ">11¤Schulbuch</feld>
+    <feld nr="902" ind=" ">11¤Erzählung</feld>
+    <feld nr="907" ind=" ">11¤Scuole elementari</feld>
+    <feld nr="907" ind=" ">11¤Sillabari</feld>
+    <feld nr="907" ind=" ">11¤Testi scolastici</feld>
+    <feld nr="907" ind=" ">11¤Racconti</feld>
+    <feld nr="917" ind=" ">11¤Mareo &lt;idiom&gt;</feld>
+    <feld nr="917" ind=" ">11¤Ladin de Mesaval</feld>
+    <feld nr="922" ind=" ">11¤Ennebergisch</feld>
+    <feld nr="922" ind=" ">11¤Ladin i.e.S.</feld>
+    <feld nr="927" ind=" ">11¤Marebbano</feld>
+    <feld nr="927" ind=" ">11¤Ladino in senso stretto</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">0000068</feld>
+    <feld nr="004" ind=" ">20101027115503</feld>
+    <feld nr="030" ind=" ">a|||d||||||37</feld>
+    <feld nr="037" ind=" ">lld</feld>
+    <feld nr="050" ind=" ">a</feld>
+    <feld nr="051" ind=" ">m</feld>
+    <feld nr="086" ind=" ">Buch</feld>
+    <feld nr="100" ind=" ">Erlbruch, Wolf</feld>
+    <feld nr="104" ind="b">Pitscheider, Erika</feld>
+    <feld nr="304" ind=" "><ns>Die</ns> fürchterlichen Fünf &lt;lld.&gt;</feld>
+    <feld nr="331" ind=" "><ns>I</ns> cin tìers da sgricé</feld>
+    <feld nr="359" ind=" ">de Wolf Erlbruch. [Traduziun dal todësch tl badiot: Erika Pitscheider ...]</feld>
+    <feld nr="410" ind=" ">San Martin de Tor</feld>
+    <feld nr="412" ind=" ">Istitut Cultural Ladin "Micurá de Rü"</feld>
+    <feld nr="425" ind=" ">1999</feld>
+    <feld nr="433" ind=" ">[40] pl. : g. p .il., notes</feld>
+    <feld nr="540" ind="a">ISBN 88-8171-016-1</feld>
+    <feld nr="700" ind="g">IW 6795</feld>
+    <feld nr="700" ind="g">DX 4060</feld>
+    <feld nr="710" ind=" ">Liber per mutons</feld>
+    <feld nr="710" ind=" ">Liber ilustré</feld>
+    <feld nr="902" ind=" ">11¤Kinderbuch</feld>
+    <feld nr="902" ind=" ">11¤Bildband</feld>
+    <feld nr="907" ind=" ">11¤Libri per bambini</feld>
+    <feld nr="907" ind=" ">11¤Libri illustrati</feld>
+    <feld nr="917" ind=" ">11¤Ladin de Mesaval</feld>
+    <feld nr="917" ind=" ">11¤Ladin de Gherdeina</feld>
+    <feld nr="922" ind=" ">11¤Ladin i.e.S.</feld>
+    <feld nr="922" ind=" ">11¤Grödnerisch</feld>
+    <feld nr="927" ind=" ">11¤Ladino in senso stretto</feld>
+    <feld nr="927" ind=" ">11¤Gardenese</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">0000069</feld>
+    <feld nr="004" ind=" ">20101027115503</feld>
+    <feld nr="030" ind=" ">a|||d||||||37</feld>
+    <feld nr="037" ind=" ">lld</feld>
+    <feld nr="050" ind=" ">|||||aa</feld>
+    <feld nr="051" ind=" ">m</feld>
+    <feld nr="086" ind=" ">Audio-</feld>
+    <feld nr="100" ind=" ">Erlbruch, Wolf</feld>
+    <feld nr="304" ind=" "><ns>Die</ns> fürchterlichen Fünf &lt;rätoroman.&gt;</feld>
+    <feld nr="331" ind=" "><ns>I</ns> cin tìers da sgricé</feld>
+    <feld nr="359" ind=" ">de Wolf Erlbruch</feld>
+    <feld nr="410" ind=" ">[San Martin de Tor]</feld>
+    <feld nr="412" ind=" ">Ist. Culturel Ladin "Micurà de Rü"</feld>
+    <feld nr="425" ind=" ">1999</feld>
+    <feld nr="433" ind=" ">1 CD</feld>
+    <feld nr="501" ind=" ">Text in Gadertaler und Grödner Mundart. - EST des beigef. Werkes: Die Geschichte vom guten Wolf &lt;rätoroman.&gt;</feld>
+    <feld nr="700" ind="g">IW 6795</feld>
+    <feld nr="700" ind="g">DX 4300</feld>
+    <feld nr="710" ind=" ">Stories y conties</feld>
+    <feld nr="710" ind=" ">Mutons</feld>
+    <feld nr="902" ind=" ">11¤Erzählung</feld>
+    <feld nr="902" ind=" ">11¤Kind</feld>
+    <feld nr="907" ind=" ">11¤Racconti</feld>
+    <feld nr="907" ind=" ">11¤Bambini</feld>
+    <feld nr="917" ind=" ">11¤Ladin de Mesaval</feld>
+    <feld nr="917" ind=" ">11¤Ladin de Gherdeina</feld>
+    <feld nr="922" ind=" ">11¤Ladin i.e.S.</feld>
+    <feld nr="922" ind=" ">11¤Grödnerisch</feld>
+    <feld nr="927" ind=" ">11¤Ladino in senso stretto</feld>
+    <feld nr="927" ind=" ">11¤Gardenese</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">0000070</feld>
+    <feld nr="004" ind=" ">20101027115503</feld>
+    <feld nr="030" ind=" ">a|||d||||||37</feld>
+    <feld nr="037" ind=" ">lld</feld>
+    <feld nr="050" ind=" ">a</feld>
+    <feld nr="051" ind=" ">m</feld>
+    <feld nr="086" ind=" ">Buch</feld>
+    <feld nr="100" ind=" ">Nickl, Peter</feld>
+    <feld nr="104" ind=" ">Wilkon, Józef</feld>
+    <feld nr="108" ind="b">Pitscheider, Erika</feld>
+    <feld nr="112" ind="b">Kasslatter-Runggaldier, Manuela</feld>
+    <feld nr="304" ind=" ">"<ns>Die</ns> Geschichte vom guten Wolf" &lt;lld.&gt;</feld>
+    <feld nr="331" ind=" "><ns>La</ns> storia dl pros lu</feld>
+    <feld nr="341" ind=" ">la storia dl lëuf valënt</feld>
+    <feld nr="359" ind=" ">Peter Nickl ; Józef Wilkon. [Traduziun tl badiot: Erika Pitscheider ...]</feld>
+    <feld nr="410" ind=" ">San Martin de Tor</feld>
+    <feld nr="412" ind=" ">Istitut Cultural Ladin "Micurá de Rü" [u.a.]</feld>
+    <feld nr="425" ind=" ">1999</feld>
+    <feld nr="433" ind=" ">[18] pl. : g. p. il., notes</feld>
+    <feld nr="540" ind="a">ISBN 88-8171-016-1</feld>
+    <feld nr="700" ind="g">IW 6795</feld>
+    <feld nr="700" ind="g">DX 4060</feld>
+    <feld nr="710" ind=" ">Liber per mutons</feld>
+    <feld nr="710" ind=" ">Liber ilustré</feld>
+    <feld nr="902" ind=" ">11¤Kinderbuch</feld>
+    <feld nr="902" ind=" ">11¤Bildband</feld>
+    <feld nr="907" ind=" ">11¤Libri per bambini</feld>
+    <feld nr="907" ind=" ">11¤Libri illustrati</feld>
+    <feld nr="917" ind=" ">11¤Badiot</feld>
+    <feld nr="917" ind=" ">11¤Ladin de Gherdeina</feld>
+    <feld nr="922" ind=" ">11¤Badiot &lt;Mundart&gt;</feld>
+    <feld nr="922" ind=" ">11¤Grödnerisch</feld>
+    <feld nr="927" ind=" ">11¤Badiotto</feld>
+    <feld nr="927" ind=" ">11¤Gardenese</feld>
+  </datensatz>
+</datei>

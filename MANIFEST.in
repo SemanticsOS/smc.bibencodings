@@ -1,0 +1,8 @@
+include setup.py fi2pxd.py lcms2pxd.py
+include CHANGES.txt README.txt
+include LICENSE.txt
+include MANIFEST.in Makefile
+include setup.py setup.cfg
+include smc/bibencodings/tests.py
+recursive-include smc/bibencodings/testdata *.xml *.mab
+

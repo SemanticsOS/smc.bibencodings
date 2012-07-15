@@ -1,0 +1,19 @@
+<datei xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd http://www.d-nb.de/standardisierung/formate/mabxml-1.xsd">
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">251959</feld>
+    <feld nr="002" ind="a">25.05.2011</feld>
+    <feld nr="004" ind=" ">25.05.2011</feld>
+    <feld nr="030" ind=" ">aa</feld>
+    <feld nr="037" ind="a">de</feld>
+    <feld nr="076" ind=" ">1</feld>
+    <feld nr="076" ind="a">mo</feld>
+    <feld nr="080" ind=" ">StLB</feld>
+    <feld nr="331" ind=" ">Florio und Bianceffora</feld>
+    <feld nr="335" ind=" ">ein gar schone newe hystori der hochen lieb der Koniglichen fursten Florio : vnd von seiner lieben Bianceffora ... : Mit schonen figuren</feld>
+    <feld nr="412" ind=" ">Gedruckt zu Metzs ... Durch Caspar Hochfeder</feld>
+    <feld nr="425" ind="a">1500</feld>
+    <feld nr="501" ind=" ">Das letzte Blatt fehlt. Mit vielen Autographen der Leser auf den beiden Innenseiten des Deckels</feld>
+    <feld nr="673" ind="a">Metz</feld>
+    <feld nr="100" ind="m">1</feld>
+  </datensatz>
+</datei>

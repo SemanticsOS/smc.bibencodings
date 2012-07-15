@@ -1,0 +1,41 @@
+<datei xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd http://www.d-nb.de/standardisierung/formate/mabxml-1.xsd">
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">00025053</feld>
+    <feld nr="002" ind="a">20080604</feld>
+    <feld nr="003" ind=" ">20080604</feld>
+    <feld nr="037" ind=" ">gerhebfreyid</feld>
+    <feld nr="053" ind=" ">n</feld>
+    <feld nr="070" ind="a">1a</feld>
+    <feld nr="081" ind=" ">Archiv</feld>
+    <feld nr="083" ind=" ">geordnet</feld>
+    <feld nr="100" ind=" ">Zunz, Leopold</feld>
+    <feld nr="102" ind="a">118773275</feld>
+    <feld nr="200" ind=" ">Bêt has-Sefarîm hal-Le'ummî we-ha-Ûnîversîta'î ha-Ivrî &lt;Yerûsalayim&gt;</feld>
+    <feld nr="202" ind="c">00071756</feld>
+    <feld nr="331" ind=" ">Leopold-Zunz-Archiv</feld>
+    <feld nr="544" ind=" ">ARC 4 792</feld>
+    <feld nr="663" ind="b">Gotthold Weil, "Das Zunz-Archiv", in: Leo Baeck Institute Bulletin 7, 1959, S. 153-161.</feld>
+    <feld nr="750" ind="m">Nachlass Lazarus Bendavid; Archiv des Vereins f³r Cultur und Wissenschaft der Juden; Nachlass Leopold Zunz; Archiv der Zunz-Stiftung</feld>
+  </datensatz>
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">00025054</feld>
+    <feld nr="002" ind="a">20080604</feld>
+    <feld nr="003" ind=" ">20100104</feld>
+    <feld nr="037" ind=" ">ger<tf/>heb</feld>
+    <feld nr="053" ind=" ">n</feld>
+    <feld nr="070" ind="a">1a</feld>
+    <feld nr="081" ind=" ">Archiv</feld>
+    <feld nr="083" ind=" ">geordnet</feld>
+    <feld nr="100" ind=" ">Bendavid, Lazarus</feld>
+    <feld nr="102" ind="a">116117818</feld>
+    <feld nr="200" ind=" ">Bêt has-Sefarîm hal-Le'ummî we-ha-Ûnîversîta'î ha-Ivrî &lt;Yerûsalayim&gt;</feld>
+    <feld nr="202" ind="a">1004728-1</feld>
+    <feld nr="331" ind=" ">Nachlass Lazarus Bendavid</feld>
+    <feld nr="451" ind=" ">ARC 4 792</feld>
+    <feld nr="451" ind="b">Leopold-Zunz-Archiv</feld>
+    <feld nr="453" ind=" ">00025053</feld>
+    <feld nr="544" ind=" ">ARC 4 792/bendavid</feld>
+    <feld nr="661" ind="d">Nachlass</feld>
+    <feld nr="750" ind="m">Lebensdokumente, Briefe, Werke, Werke anderer</feld>
+  </datensatz>
+</datei>

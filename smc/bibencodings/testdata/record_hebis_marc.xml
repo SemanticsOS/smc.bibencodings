@@ -1,0 +1,27 @@
+<datei xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd http://www.d-nb.de/standardisierung/formate/mabxml-1.xsd">
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">02487079X</feld>
+    <feld nr="002" ind="a">19930528</feld>
+    <feld nr="003" ind=" ">20100528</feld>
+    <feld nr="026" ind=" ">HEB02487079X</feld>
+    <feld nr="030" ind=" ">z|1dz||z|||37</feld>
+    <feld nr="036" ind="a">XA-DE</feld>
+    <feld nr="037" ind="b">yid</feld>
+    <feld nr="050" ind=" ">a|a|||||||||||</feld>
+    <feld nr="051" ind=" ">m|||z|||</feld>
+    <feld nr="070" ind="a">HEB</feld>
+    <feld nr="100" ind="b">Stief, Nachum</feld>
+    <feld nr="331" ind=" "><ns>Di</ns> organizatzie fun der jidišer wisnšafṭ</feld>
+    <feld nr="370" ind=" ">Wegn a jidišn akademišn insṭiṭuṭ</feld>
+    <feld nr="370" ind=" ">Wilner ṭezisn wegn jidiň wisnšafṭlechn insṭiṭuṭ</feld>
+    <feld nr="410" ind=" ">Wilne</feld>
+    <feld nr="425" ind="a">1925</feld>
+    <feld nr="425" ind=" ">1925</feld>
+    <feld nr="433" ind=" ">40 S.</feld>
+    <feld nr="501" ind=" ">Übers. d. Hauptsacht.: Die Organisation der jüdischen Wissenschaft</feld>
+    <feld nr="516" ind=" ">In hebr. Schrift, jidd.</feld>
+    <feld nr="902" ind="c">  4326541-8           Wilna</feld>
+    <feld nr="902" ind="s">114194223-1           Resolution</feld>
+    <feld nr="902" ind="g">114028614-9           Jiddisch</feld>
+  </datensatz>
+</datei>

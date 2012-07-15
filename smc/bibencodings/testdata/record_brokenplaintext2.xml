@@ -1,0 +1,20 @@
+<datei xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd http://www.d-nb.de/standardisierung/formate/mabxml-1.xsd">
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">253778</feld>
+    <feld nr="002" ind="a">03.08.2011</feld>
+    <feld nr="004" ind=" ">03.08.2011</feld>
+    <feld nr="030" ind=" ">aa</feld>
+    <feld nr="037" ind="a">de</feld>
+    <feld nr="076" ind=" ">1</feld>
+    <feld nr="076" ind="a">mo</feld>
+    <feld nr="080" ind=" ">StLB</feld>
+    <feld nr="331" ind=" ">Allgemeines Post- und Reisebuch</feld>
+    <feld nr="335" ind=" ">nebst einer richtigen Anzeige aller in ganz Europa gangbaren Münzsorten, Gewichte, und Ellenmasses, samt deren Verhältnis gegen den österreichischen Münz- Gewicht- und Ellenfuß</feld>
+    <feld nr="403" ind=" ">zwote verb. u. verm. Aufl.</feld>
+    <feld nr="412" ind=" ">S. Hartl</feld>
+    <feld nr="425" ind="a">1768</feld>
+    <feld nr="433" ind=" ">163 S.</feld>
+    <feld nr="673" ind="a">Wien</feld>
+    <feld nr="100" ind="m">1</feld>
+  </datensatz>
+</datei>

@@ -1,0 +1,11 @@
+build
+dist
+smc.bibencodings.egg-info
+
+.settings
+
+syntax: glob
+*.swp
+*.pyc
+*.pyo
+

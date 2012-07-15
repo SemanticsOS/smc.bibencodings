@@ -1,0 +1,90 @@
+<datei xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd http://www.d-nb.de/standardisierung/formate/mabxml-1.xsd">
+  <datensatz mabVersion="M2.0" status="n" typ="h">
+    <feld nr="001" ind=" ">HT010096562</feld>
+    <feld nr="002" ind="a">19990330</feld>
+    <feld nr="003" ind=" ">20100820</feld>
+    <feld nr="004" ind=" ">20101018</feld>
+    <feld nr="026" ind=" ">HBZHT010096562</feld>
+    <feld nr="030" ind=" ">a|1uc||||||37</feld>
+    <feld nr="036" ind="a">DXDE</feld>
+    <feld nr="037" ind="b">ger</feld>
+    <feld nr="050" ind=" ">a|||||||||||||</feld>
+    <feld nr="051" ind=" ">s|||||||</feld>
+    <feld nr="070" ind=" ">HBZ/Off</feld>
+    <feld nr="070" ind="b">61</feld>
+    <feld nr="080" ind=" ">60</feld>
+    <feld nr="088" ind=" ">
+      <uf code="a">61</uf>
+      <uf code="b">19</uf>
+      <uf code="c">DLIT1563(4):1</uf>
+      <uf code="e">Wird zurzeit digitalisiert</uf>
+    </feld>
+    <feld nr="100" ind="b">Reinick, Robert</feld>
+    <feld nr="102" ind="a">116427620</feld>
+    <feld nr="104" ind="b">Schroedter, Adolf <ns>[Ill.]</ns></feld>
+    <feld nr="106" ind="a">118761919</feld>
+    <feld nr="108" ind="b">Ehrhardt, Adolf <ns>[Ill.]</ns></feld>
+    <feld nr="110" ind="a">116407514</feld>
+    <feld nr="112" ind="b">Bendemann, Eduard Julius Friedrich <ns>[Ill.]</ns></feld>
+    <feld nr="114" ind="a">10223244X</feld>
+    <feld nr="116" ind="b">Sohn, Carl <ns>[Ill.]</ns></feld>
+    <feld nr="118" ind="a">117452963</feld>
+    <feld nr="120" ind="b">Kretzschmer, Hermann <ns>[Ill.]</ns></feld>
+    <feld nr="122" ind="a">116527315</feld>
+    <feld nr="124" ind="b">Steinbrück, Eduard <ns>[Ill.]</ns></feld>
+    <feld nr="126" ind="a">117246689</feld>
+    <feld nr="128" ind="b">Becker, Jakob (Künstler) <ns>[Ill.]</ns></feld>
+    <feld nr="130" ind="a">119032082</feld>
+    <feld nr="132" ind="b">Dahl, Carl <ns>[Ill.]</ns></feld>
+    <feld nr="134" ind="a">138919216</feld>
+    <feld nr="136" ind="b">Jacobi, Otto Reinhard <ns>[Ill.]</ns></feld>
+    <feld nr="138" ind="a">138967423</feld>
+    <feld nr="140" ind="b">Nerenz, Wilhelm <ns>[Ill.]</ns></feld>
+    <feld nr="142" ind="a">116911158</feld>
+    <feld nr="144" ind="b">Achenbach, Andreas <ns>[Ill.]</ns></feld>
+    <feld nr="146" ind="a">119540355</feld>
+    <feld nr="148" ind="b">Jordan, Rudolf <ns>[Ill.]</ns></feld>
+    <feld nr="150" ind="a">117182907</feld>
+    <feld nr="152" ind="b">Sonderland, Johann Baptist Wilhelm Adolf <ns>[Ill.]</ns></feld>
+    <feld nr="154" ind="a">117478865</feld>
+    <feld nr="156" ind="b">Normann, Rudolf Carl Friedrich Ernst <ns>von</ns> <ns>[Ill.]</ns></feld>
+    <feld nr="158" ind="a">117057215</feld>
+    <feld nr="160" ind="b">Dielmann, Jakob Fürchtegott <ns>[Ill.]</ns></feld>
+    <feld nr="162" ind="a">118702424</feld>
+    <feld nr="164" ind="b">Plüddemann, Hermann Freihold <ns>[Ill.]</ns></feld>
+    <feld nr="166" ind="a">116246782</feld>
+    <feld nr="168" ind="b">Mücke, Heinrich (Künstler) <ns>[Ill.]</ns></feld>
+    <feld nr="170" ind="a">117147559</feld>
+    <feld nr="172" ind="b">Rethel, Alfred <ns>[Ill.]</ns></feld>
+    <feld nr="174" ind="a">118744615</feld>
+    <feld nr="176" ind="b">Stilke, Hermann Anton <ns>[Ill.]</ns></feld>
+    <feld nr="178" ind="a">117259047</feld>
+    <feld nr="180" ind="b">Schirmer, Johann Wilhelm <ns>[Ill.]</ns></feld>
+    <feld nr="182" ind="a">118755161</feld>
+    <feld nr="184" ind="b">Hildebrandt, Theodor <ns>[Ill.]</ns></feld>
+    <feld nr="186" ind="a">11680470X</feld>
+    <feld nr="188" ind="b">Hübner, Julius (Künstler) <ns>[Ill.]</ns></feld>
+    <feld nr="190" ind="a">119144573</feld>
+    <feld nr="192" ind="b">Müller, Andreas (Künstler, 1811-1890) <ns>[Ill.]</ns></feld>
+    <feld nr="194" ind="a">117187305</feld>
+    <feld nr="196" ind="b">Keller, Joseph <ns>von</ns> (Künstler, 1811-1873) <ns>[Ill.]</ns></feld>
+    <feld nr="198" ind="a">116174706</feld>
+    <feld nr="331" ind=" ">Lieder eines Malers mit Randzeichnungen seiner Freunde</feld>
+    <feld nr="359" ind=" ">R. R. [Ill.: R. Reinick ; A. Schrödter ; A. Ehrhardt ; E. Bendemann ; C. Sohn ; H. Kretzschmer ; E. Steinbrück ; J. Becker ; C. Dahl ; O. R. Jacobi ; W. Nerenz ; A. Achenbach ; R. Jordan ; J. B. Sonderland ; R. von Normann ; J. Dielmann ; H. Plüddemann ; H. Mücke ; A. Rethel ; H. Stilke ; W. Schirmer ; Th. Hildebrandt ; J. Hübner ; A. Müller ; J. Keller u. a.]</feld>
+    <feld nr="403" ind=" ">[3. oder 4. Abdr.]</feld>
+    <feld nr="410" ind=" ">Düsseldorf</feld>
+    <feld nr="412" ind=" ">Buddeus</feld>
+    <feld nr="415" ind="a">Düsseldorf</feld>
+    <feld nr="417" ind="a">Schulgen-Bettendorff</feld>
+    <feld nr="425" ind=" ">[zw. 1839 und 1846]</feld>
+    <feld nr="425" ind="a">1846</feld>
+    <feld nr="433" ind=" ">[2] Bl., IV, 61 S., [1] Bl. : zahlr. Ill.</feld>
+    <feld nr="451" ind=" ">Lieder und Bilder ; 1</feld>
+    <feld nr="453" ind=" ">HT006799959</feld>
+    <feld nr="455" ind=" ">1</feld>
+    <feld nr="456" ind=" ">1</feld>
+    <feld nr="511" ind=" ">Vorlageform des Erscheinungsvermerks: Verlag von Julius Buddeus in Düsseldorf. Gedruckt in der Kupferdruckerei der Königl. Kunst-Academie zu Düsseldorf von C. Schulgen-Bettendorff. - Kolophon: Druck der J. Wolf'schen Buchdruckerei in Düsseldorf</feld>
+    <feld nr="512" ind=" ">31 Originalradierungen</feld>
+    <feld nr="516" ind=" ">In Fraktur</feld>
+  </datensatz>
+</datei>
